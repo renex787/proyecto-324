@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "assets",
+    "client",
+    "server",
+    "ttf"
+  ]
+}
